@@ -6,10 +6,10 @@ $pkg install git
 
 $pkg install python
 
-$git clone https://github.com/Ainx-BOT/fblf
+$git clone https://github.com/CHEA-MC/FBMod
 
-$cd fblf
+$cd FBMod
 
 $python-m pip install requests bs4
 
-$python run.py
+$python Run.py
