@@ -31,12 +31,10 @@ def baner():
         {p}{b}╠╣ ╠╩╗ {d} │  │├┴┐├┤ ├┤ │ ││
         {p}{b}╚  ╚═╝ {d} ┴─┘┴┴ ┴└─┘└  └─┘┴─┘
 {ab}-----------------------------------------------
-{d}Donate   : {g}https://saweria.co/FahmiDev
-{d}Message  : {g}https://wa.me/62881024612817
-{d}Restapi  : {g}https://ainxbot-id.herokuapp.com
-{d}Youtube  : {g}https://youtube.com/KuhakuTermux
-{d}Github   : {g}https://github.com/Ainx-BOT
-{d}Facebook : {g}https://facebook.com/kang.ngeue.313
+{d}Message  : {g}https://m.me/ChealoveDav
+{d}Youtube  : {g}https://www.youtube.com/@CHEA-MC
+{d}Github   : {g}https://github.com/CHEA-MC
+{d}Facebook : {g}https://facebook.com/ChealoveDav
 {ab}-----------------------------------------------""")
 
 def agent():
