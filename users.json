@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "adminpassword123"
+  },
+  {
+    "id": 2,
+    "name": "Sokun David",
+    "username": "david.sokun",
+    "email": "david@example.com",
+    "password": "davids_secret_pass"
+  },
+  {
+    "id": 3,
+    "name": "Chan Thida",
+    "username": "thida.chan",
+    "email": "thida@example.com",
+    "password": "password123"
+  },
+  {
+    "id": 4,
+    "name": "Test User",
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "test"
+  }
+]
